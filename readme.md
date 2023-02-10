@@ -2,6 +2,8 @@
 
 <h2>Hello👋 ~</h2>
 
-<div style="margin-top: 40">
-  <img align="left" src="https://bubkoo-server.vercel.app/365dots"/>
-</div>
+<p>
+  - : i am working in bytedance
+  - : i am working in Beijing
+  - : a programmer who has practiced for a year and a half
+</p>
