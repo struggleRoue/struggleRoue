@@ -3,5 +3,5 @@
 <h2>Hello👋 ~</h2>
 
 <div style="margin-top: 40">
-  <img align="left" src="https://bubkoo-server.vercel.app/365dots" height="300" width="100%"/>
+  <img align="left" src="https://bubkoo-server.vercel.app/365dots"/>
 </div>
